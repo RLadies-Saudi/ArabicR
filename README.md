@@ -1,5 +1,5 @@
 
-<p align="center">
+<p align="left">
   <img src="rladies_logo.jpg" class = "logo" width= "200" >
 </p>
 
