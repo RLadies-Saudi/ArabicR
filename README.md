@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="rladies_logo.jpg">
+  <img src="rladies_logo.jpg" class = "logo" width= "200" >
 </p>
 
 # ArabicR
